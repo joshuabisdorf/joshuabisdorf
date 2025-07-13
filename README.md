@@ -61,14 +61,8 @@
 ###
 
 <div align="left">
-  <a href="https://linktr.ee/joshuabisdorf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/joshuabisdorf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://signal.me/#eu/Q6qjtiGSysMiQF_XIBZNgDKxzxxVSNzBZttpFafnDZuHlvdxC0NH7paM8hZUL6xt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  />
   </a>
 </div>
 
