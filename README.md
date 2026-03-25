@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! My name is Joshua Bisdorf, and I'm a computer science student at the University of Michigan interested in software development.</h2>
+<h2 align="left">Hi there! My name is Joshua Bisdorf, and I'm a SWE at KBR, Inc. I got my B.S.E. in Computer Science at the University of Michigan.</h2>
 
 ###
 
